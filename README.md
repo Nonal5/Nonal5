@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learn C.<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning C.<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently studying at EPITECH.<br>👯 I’m looking to collaborate on Artificial Intelligence<br>🌱 I’m currently learning C.<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
