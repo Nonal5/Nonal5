@@ -1,4 +1,4 @@
-![Cover](https://github.com/Nonal5/Nonal5/)
+![Cover](https://github.com/Nonal5/Nonal5/background.avif)
 # 💫 About Me:
 🔭 I’m currently studying at EPITECH.<br>👯 I’m looking to collaborate on Artificial Intelligence<br>🌱 I’m currently learning C.<br>💬 Ask me about<br>⚡ Fun fact
 
