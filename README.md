@@ -1,6 +1,6 @@
 ![Cover](background.png)
 # 💫 About Me:
-🎓 🎓 EPITECH student — building projects and learning by doing<br>🔭 Currently working on: **my_top**, **mobile app**<br>🧠 Learning: **C** + **Algorithms & Data Structures**<br>🤝 Looking to collaborate on: **AI / automation / tools**<br>💬 Ask me about: **C**, **Git**, **Linux**<br>📫 Reach me: **Discord / LinkedIn / Email**
+🎓 EPITECH student — building projects and learning by doing<br>🔭 Currently working on: **my_top**, **mobile app**<br>🧠 Learning: **C** + **Algorithms & Data Structures**<br>🤝 Looking to collaborate on: **AI / automation / tools**<br>💬 Ask me about: **C**, **Git**, **Linux**<br>📫 Reach me: **Discord / LinkedIn / Email**
 
 
 ## 🌐 Socials:
